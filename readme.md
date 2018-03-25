@@ -15,7 +15,10 @@ Functions:
 
 ![image](https://imgur.com/QCNzoDW.png)  
 
-## More functions in the future!
+# More functions in the future!
+
+## [DOWNLOAD](https://github.com/thelucifermorningstar/KSP-Rocket-Science/releases)
+
 
 **Coded in Hell by Lucifer**  
 Set free some souls today: Donate!  
